@@ -5,3 +5,7 @@ The dataset is a global retail company that operates internationally across 147 
 
 ### Objective
 To evaluate and optimize global business performance across the 2011 to 2014 period and identify key drivers of revenue and profitability across regional markets, customer segments, and product sub-categories, while examining the trade-offs between discount levels and operational shipping costs. By evaluating year-over-year expansion, regional margins, and order fulfillment priorities, this analysis aims to pinpoint underperforming areas, prevent profit erosion, and highlight scalable opportunities for sustainable international growth.
+
+### Tools
+1. Microsoft Excel – Data cleaning and data preparation
+2. Tableau – Data visualization and dashboard creation
