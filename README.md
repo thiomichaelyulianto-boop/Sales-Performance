@@ -11,20 +11,17 @@ To evaluate business performance by analyzing sales and profit trends over time,
 2. Tableau – Data visualization and dashboard creation
 
 ### Findings
-1. The graph shows quarterly sales and profit trends from 2011 to 2014. Overall, sales and profit generally increased over the period, with quarterly sales rising from approximately $335K in Q1 2011 to $1.48M in Q4 2014. The data also shows a recurring seasonal pattern, with sales and profit tending to be higher in Q4 and decreasing in Q1 of the following year. However, Q1 performance generally improved from year to year, indicating that the business continued to grow despite the seasonal decline.
-2. The pie chart shows the distribution of total profit across the three product categories. Technology contributes the largest share of total profit at 45.17%, followed by Office Supplies at 35.30%. Furniture has the smallest contribution at 19.53%. This shows that Technology and Office Supplies contribute more to overall profit than Furniture during the period analyzed.
-3. The horizontal bar chart shows the top 10 products based on total sales. Technology products appear frequently among the top-selling products, with the Apple Smart Phone, Full Size generating the highest sales at $86,936. Other products in the top 10 include Cisco and Motorola smartphones, Canon copiers, and Executive Leather Armchairs. 
-4. The horizontal bar chart shows the top 10 states/provinces based on total sales. England has the highest sales at approximately $485K, followed by California at around $458K. The results show that sales are concentrated in a small number of states/provinces, with the top-performing locations generating considerably higher sales than other regions.
+1. Sales and profit generally increased from 2011 to 2014, with quarterly sales rising from approximately $335K in Q1 2011 to $1.48M in Q4 2014. A recurring seasonal pattern can also be seen, with sales and profit tending to peak in Q4 and decline in Q1 of the following year. Despite this seasonal decline, Q1 performance generally improved from year to year.
+2. Technology contributed the largest share of total profit at 45.17%, followed by Office Supplies at 35.30%. Furniture contributed the smallest share at 19.53%, indicating that Technology and Office Supplies generated a larger portion of the company's total profit during the period analyzed.
+3. The Apple Smart Phone, Full Size generated the highest sales among the top-performing products at $86,936. Technology products were also prominent among the highest-selling products, alongside products such as Canon copiers and Executive Leather Armchairs.
+4. England recorded the highest sales at approximately $485K, followed by California at around $458K. Sales were relatively concentrated among the leading states, with England generating more than three times the sales of the tenth-ranked territory, National Capital.
 
 ### Recommendations
-1. Prepare inventory and logistics capacity ahead of the Q4 period to handle the higher demand and reduce the risk of stock shortages or delays.
-2. Analyze customer purchasing patterns around Q4 and Q1 to identify opportunities to encourage repeat purchases in the following quarters.
-3. Continue focusing on Technology and Office Supplies while maintaining their current contribution to overall profit.
-4. Review the performance of the Furniture category, particularly its sales, costs, and profit margins, to understand why its profit contribution is lower.
-5. Further analyze individual products within each category to identify which products contribute most to profit and which may need improvement.
-6. Monitor inventory levels for top-selling products to help maintain product availability and meet customer demand.
-7. Further analyze the profitability of these top-selling products to determine whether high sales are also translating into strong profits.
-8. Review the performance of individual products within the top 10 to identify products with strong sales but relatively low profit.
-9. Monitor sales performance in the top-performing states/provinces to understand which markets contribute most to overall revenue.
-10. Further analyze profit by state/province to identify whether high-sales regions are also generating strong profitability.
-11. Compare lower-performing states with the top-performing regions to identify potential differences in customer demand and sales performance.
+1. Prepare inventory and logistics capacity ahead of Q4 to handle the expected increase in demand and reduce the risk of stock shortages or delays.
+2. Analyze customer purchasing patterns around Q4 and Q1 to find ways to maintain sales after the seasonal decline and encourage repeat purchases.
+3. Continue monitoring Technology and Office Supplies, which contribute a larger share of total profit, while reviewing the performance of Furniture to better understand its lower profit contribution.
+4. Monitor the performance of top-selling products by comparing their sales and profit to identify products with high sales but relatively low profitability.
+5. Compare sales and profit across states to identify strong and weaker-performing markets and better understand where there may be opportunities for improvement.
+
+## Dashboard
+[View Tableau Dashboard](https://public.tableau.com/views/ProjectPortofolio/SalesPerformanceDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
